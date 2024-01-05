@@ -9,12 +9,21 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
+<<<<<<< HEAD
+=======
+APP_NAME=$(basename "$PWD")
+
+>>>>>>> 59187291 (added setup script and updated README)
 docker run --rm \
     --pull=always \
     -v "$(pwd)":/opt \
     -w /opt \
     laravelsail/php82-composer:latest \
+<<<<<<< HEAD
     bash -c "cp .env.example .env && composer install && php ./artisan sail:install --with=mysql,redis,meilisearch,mailpit,selenium && php ./artisan key:generate"
+=======
+    bash -c "mv .env.example .env && composer install && php ./artisan sail:install --with=mysql,redis,meilisearch,mailpit,selenium && php ./artisan key:generate"
+>>>>>>> 59187291 (added setup script and updated README)
 
 ./vendor/bin/sail pull mysql redis meilisearch mailpit selenium
 ./vendor/bin/sail build
