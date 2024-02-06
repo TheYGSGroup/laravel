@@ -53,21 +53,6 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ### Premium Partners
 
-<<<<<<< HEAD
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-=======
 -   **[Vehikl](https://vehikl.com/)**
 -   **[Tighten Co.](https://tighten.co)**
 -   **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
@@ -81,7 +66,6 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 -   **[OP.GG](https://op.gg)**
 -   **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 -   **[Lendio](https://lendio.com)**
->>>>>>> 8b47c7d3 (added setup script and updated README)
 
 ## Contributing
 
